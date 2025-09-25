@@ -6,7 +6,7 @@ Starter repository for CheckPoints 1–3. Use this to begin your assignments.
 
 - CI: ![CI](https://github.com/Vrund07/vspadariya-checkpoint3/workflows/ci.yml/badge.svg)
 - Pages: ![Deploy](https://github.com//Vrund07/vspadariya-checkpoint3/actions/workflows/pages.yml/badge.svg)
-- Coverage: ![codecov](https://codecov.io/gh/OWNER/REPO/branch/main/graph/badge.svg)
+- Coverage: ![codecov](https://codecov.io/gh//Vrund07/vspadariya-checkpoint3/branch/main/graph/badge.svg)
 
 Replace `OWNER/REPO` with your GitHub path after your first push.
 
