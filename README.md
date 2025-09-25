@@ -4,7 +4,7 @@ Starter repository for CheckPoints 1–3. Use this to begin your assignments.
 
 ## Status Badges
 
-- CI: ![CI](https://github.com/Vrund07/vspadariya-checkpoint3/workflows/ci.yml/badge.svg)
+- CI: ![CI](https://github.com//Vrund07/vspadariya-checkpoint3/workflows/ci.yml/badge.svg)
 - Pages: ![Deploy](https://github.com//Vrund07/vspadariya-checkpoint3/actions/workflows/pages.yml/badge.svg)
 - Coverage: ![codecov](https://codecov.io/gh//Vrund07/vspadariya-checkpoint3/branch/main/graph/badge.svg)
 
